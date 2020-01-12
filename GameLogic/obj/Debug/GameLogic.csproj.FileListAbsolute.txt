@@ -1,0 +1,18 @@
+C:\Users\oribe_000\source\repos\c#\B19 Ex05 Ori 311126304 Nimrod 311129555\GameLogic\bin\Debug\GameLogic.pdb
+C:\Users\oribe_000\source\repos\c#\B19 Ex05 Ori 311126304 Nimrod 311129555\GameLogic\obj\Debug\GameLogic.csproj.CoreCompileInputs.cache
+C:\Users\oribe_000\source\repos\c#\B19 Ex05 Ori 311126304 Nimrod 311129555\GameLogic\obj\Debug\GameLogic.pdb
+C:\Users\oribe_000\source\repos\c#\B19 Ex05 Ori 311126304 Nimrod 311129555\GameLogic\obj\Debug\GameLogic.csprojAssemblyReference.cache
+C:\Users\oribe_000\source\repos\c#\B19 Ex05 Ori 311126304 Nimrod 311129555\GameLogic\bin\Debug\GameLogic.dll.config
+C:\Users\oribe_000\source\repos\c#\B19 Ex05 Ori 311126304 Nimrod 311129555\GameLogic\bin\Debug\GameLogic.dll
+C:\Users\oribe_000\source\repos\c#\B19 Ex05 Ori 311126304 Nimrod 311129555\GameLogic\obj\Debug\GameLogic.dll
+C:\Users\nimro\Desktop\temp\B19 Ex05 Ori 311126304 Nimrod 311129555\B19 Ex05 Ori 311126304 Nimrod 311129555\GameLogic\bin\Debug\GameLogic.dll.config
+C:\Users\nimro\Desktop\temp\B19 Ex05 Ori 311126304 Nimrod 311129555\B19 Ex05 Ori 311126304 Nimrod 311129555\GameLogic\bin\Debug\GameLogic.dll
+C:\Users\nimro\Desktop\temp\B19 Ex05 Ori 311126304 Nimrod 311129555\B19 Ex05 Ori 311126304 Nimrod 311129555\GameLogic\bin\Debug\GameLogic.pdb
+C:\Users\nimro\Desktop\temp\B19 Ex05 Ori 311126304 Nimrod 311129555\B19 Ex05 Ori 311126304 Nimrod 311129555\GameLogic\obj\Debug\GameLogic.csprojAssemblyReference.cache
+C:\Users\nimro\Desktop\temp\B19 Ex05 Ori 311126304 Nimrod 311129555\B19 Ex05 Ori 311126304 Nimrod 311129555\GameLogic\obj\Debug\GameLogic.csproj.CoreCompileInputs.cache
+C:\Users\nimro\Desktop\temp\B19 Ex05 Ori 311126304 Nimrod 311129555\B19 Ex05 Ori 311126304 Nimrod 311129555\GameLogic\obj\Debug\GameLogic.dll
+C:\Users\nimro\Desktop\temp\B19 Ex05 Ori 311126304 Nimrod 311129555\B19 Ex05 Ori 311126304 Nimrod 311129555\GameLogic\obj\Debug\GameLogic.pdb
+C:\Users\oribe_000\Documents\Studies\Year 2\Semester B\C#\exercises\B19 Ex05 Ori 311126304 Nimrod 311129555\B19 Ex05 Ori 311126304 Nimrod 311129555\B19 Ex05 Ori 311126304 Nimrod 311129555\GameLogic\obj\Debug\GameLogic.csprojAssemblyReference.cache
+C:\Users\oribe_000\Documents\Studies\Year 2\Semester B\C#\exercises\B19 Ex05 Ori 311126304 Nimrod 311129555\B19 Ex05 Ori 311126304 Nimrod 311129555\B19 Ex05 Ori 311126304 Nimrod 311129555\GameLogic\obj\Debug\GameLogic.csproj.CoreCompileInputs.cache
+C:\Users\oribe_000\Documents\Studies\Year 2\Semester B\C#\exercises\B19 Ex05 Ori 311126304 Nimrod 311129555\B19 Ex05 Ori 311126304 Nimrod 311129555\B19 Ex05 Ori 311126304 Nimrod 311129555\GameLogic\obj\Debug\GameLogic.dll
+C:\Users\oribe_000\Documents\Studies\Year 2\Semester B\C#\exercises\B19 Ex05 Ori 311126304 Nimrod 311129555\B19 Ex05 Ori 311126304 Nimrod 311129555\B19 Ex05 Ori 311126304 Nimrod 311129555\GameLogic\obj\Debug\GameLogic.pdb

@@ -1,0 +1,7 @@
+C:\Users\oribe_000\source\repos\c#\B19 Ex05 Ori 311126304 Nimrod 311129555\Program\bin\Debug\Program.exe.config
+C:\Users\oribe_000\source\repos\c#\B19 Ex05 Ori 311126304 Nimrod 311129555\Program\bin\Debug\Program.exe
+C:\Users\oribe_000\source\repos\c#\B19 Ex05 Ori 311126304 Nimrod 311129555\Program\bin\Debug\Program.pdb
+C:\Users\oribe_000\source\repos\c#\B19 Ex05 Ori 311126304 Nimrod 311129555\Program\obj\Debug\Program.csprojAssemblyReference.cache
+C:\Users\oribe_000\source\repos\c#\B19 Ex05 Ori 311126304 Nimrod 311129555\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\oribe_000\source\repos\c#\B19 Ex05 Ori 311126304 Nimrod 311129555\Program\obj\Debug\Program.exe
+C:\Users\oribe_000\source\repos\c#\B19 Ex05 Ori 311126304 Nimrod 311129555\Program\obj\Debug\Program.pdb
